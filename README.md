@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hi, I’m Carine Todmia — a software engineer primarily focused on the frontend, with a passion for building high-quality systems that are both performant and accessible. I’m especially drawn to projects that challenge both the creative and technical sides of my brain, and I love creating tools that make life easier (or at least less frustrating).
 <!--
 **ctodmia/ctodmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
